@@ -24,7 +24,8 @@ struct ContentDetailView: View {
                     .cornerRadius(10)
             }
 
-            // TODO: escription
+            // TODO: description
+            CodeTextView()
             
             // Next Lesson button
             
@@ -54,6 +55,7 @@ struct ContentDetailView: View {
             }
         }
         .padding()
+        .navigationBarTitle(lesson?.title ?? "" )
 
         
     }

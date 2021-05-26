@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F81F20B2265DEB8E00D299D9 /* CodeTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F81F20B1265DEB8E00D299D9 /* CodeTextView.swift */; };
 		F830DC5F26267DF4007EF684 /* LearningApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F830DC5E26267DF4007EF684 /* LearningApp.swift */; };
 		F830DC6126267DF4007EF684 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F830DC6026267DF4007EF684 /* HomeView.swift */; };
 		F830DC6326267DF4007EF684 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F830DC6226267DF4007EF684 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F81F20B1265DEB8E00D299D9 /* CodeTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeTextView.swift; sourceTree = "<group>"; };
 		F830DC5B26267DF4007EF684 /* LearningApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F830DC5E26267DF4007EF684 /* LearningApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningApp.swift; sourceTree = "<group>"; };
 		F830DC6026267DF4007EF684 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 				F859679B2648CF4300E7A872 /* ContentView.swift */,
 				F89C633B264A333200F9EE17 /* ContentViewRow.swift */,
 				F84E50232650972900298F9E /* ContentDetailView.swift */,
+				F81F20B1265DEB8E00D299D9 /* CodeTextView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				F84E50242650972900298F9E /* ContentDetailView.swift in Sources */,
 				F830DC87262687ED007EF684 /* ContentModel.swift in Sources */,
 				F89C633C264A333200F9EE17 /* ContentViewRow.swift in Sources */,
+				F81F20B2265DEB8E00D299D9 /* CodeTextView.swift in Sources */,
 				F830DC6126267DF4007EF684 /* HomeView.swift in Sources */,
 				F830DC5F26267DF4007EF684 /* LearningApp.swift in Sources */,
 				F84E502A26509C0700298F9E /* Constants.swift in Sources */,
