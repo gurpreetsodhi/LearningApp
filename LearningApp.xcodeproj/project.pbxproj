@@ -21,6 +21,7 @@
 		F8603A4A263DEF5600FEC22C /* style.html in Resources */ = {isa = PBXBuildFile; fileRef = F830DC7826267EFB007EF684 /* style.html */; };
 		F87CDBA3263DF3AB00C67176 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = F87CDBA2263DF3AB00C67176 /* data.json */; };
 		F89C633C264A333200F9EE17 /* ContentViewRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F89C633B264A333200F9EE17 /* ContentViewRow.swift */; };
+		F8C917522661C72D00BCE61C /* RectangleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8C917512661C72D00BCE61C /* RectangleCard.swift */; };
 		F8E2AC63264851C100A4B078 /* HomeViewRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8E2AC62264851C100A4B078 /* HomeViewRow.swift */; };
 /* End PBXBuildFile section */
 
@@ -41,6 +42,7 @@
 		F859679B2648CF4300E7A872 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F87CDBA2263DF3AB00C67176 /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		F89C633B264A333200F9EE17 /* ContentViewRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewRow.swift; sourceTree = "<group>"; };
+		F8C917512661C72D00BCE61C /* RectangleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleCard.swift; sourceTree = "<group>"; };
 		F8E2AC62264851C100A4B078 /* HomeViewRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -139,6 +141,7 @@
 				F89C633B264A333200F9EE17 /* ContentViewRow.swift */,
 				F84E50232650972900298F9E /* ContentDetailView.swift */,
 				F81F20B1265DEB8E00D299D9 /* CodeTextView.swift */,
+				F8C917512661C72D00BCE61C /* RectangleCard.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 				F81F20B2265DEB8E00D299D9 /* CodeTextView.swift in Sources */,
 				F830DC6126267DF4007EF684 /* HomeView.swift in Sources */,
 				F830DC5F26267DF4007EF684 /* LearningApp.swift in Sources */,
+				F8C917522661C72D00BCE61C /* RectangleCard.swift in Sources */,
 				F84E502A26509C0700298F9E /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
